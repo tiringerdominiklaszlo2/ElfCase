@@ -1,7 +1,11 @@
-*{
-    background-color:rgba(255, 99, 71, 0.8)
+body{
+    background-image: linear-gradient(to right, black, red)
 }
 #asd{
-    height: 150px;
-    width: 150px;
+    height: 80px;
+    width: 200px; 
+    text-align: left;
+}
+h1{
+    text-align: center;
 }

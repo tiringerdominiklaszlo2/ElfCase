@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  zoom: 0.75;
+  text-align: center;
+}
+
+header {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header #logo {
+  font-weight: bold;
+  font-size: 40px;
+}
+
+main {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.table {
+  width: 30%;
+
+  padding: 10px;
+ 
+}
+
+.table td{
+  padding: 5px;
+  text-align: center;
+}
+.láda{
+  height: auto;
+  width: 550px;
+
+}
+.nagy{
+  font-size: 30px;
+}
+.nagy1{
+  width: 300px;
+  height: 50px;
+  font-size: 20px;
+
+}
+.kep{
+  width: 500px;
+  height: auto;
+}
